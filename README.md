@@ -9,7 +9,8 @@ This project is fully functional Ecom-API with all functionalities like
 - Password Protection using bcryptjs
 
 
-
+## Usage 
+Use any API testing tool Like Postman or Thunder-Client (Github Extension ) etc...
 
 ## API Reference
 #### Register
@@ -108,7 +109,7 @@ This project is fully functional Ecom-API with all functionalities like
 
 **Password Security:** bcryptjs
 
-
+## Live-Hosted Link : https://enigmatic-reaches-55280.herokuapp.com/
   
 ## Authors
 
